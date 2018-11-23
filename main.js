@@ -51,7 +51,7 @@ var trivia = [{
 
 //  Variable that will hold our setInterval that runs the timer
 var intervalId;
-var transitionTime = 1000;
+var transitionTime = 3000;
 var wins=0;
 var losses=0;
 
